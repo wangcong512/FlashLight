@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlashLight</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="button_open">开启</string>
+    <string name="button_close">关闭</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
